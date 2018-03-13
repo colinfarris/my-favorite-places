@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="css/styles1.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <h1> My Favorite Places </h1>
+    <ol>
+      <li>
+        Rockaway Beach<br>
+        <img src="http://cdn.onlyinyourstate.com/wp-content/uploads/2016/11/2668955256_52d93b2e70_b-700x466.jpg" style="width:400px; height:200px;" alt="a photo of the beachtown">
+       </li>
+       <li>Dolores Park, San Francisco<br>
+        <img src="http://cdn.funcheap.com/wp-content/uploads/2016/02/01HOURS2-articleLarge-v21-550x367.jpg" style="width:400px; height:200px;" alt="a photo of dolores park">
+        </li>
+      <li>Tryon Creek State Park</li><br>
+        <img src="https://www.hikespeak.com/img/Oregon/Tryon_Creek/Loop/Old_Main_Trail_Tryon_Creek_State_Natural_Area_hike_0510.jpg" style="width:400px; height:200px;" alt="a photo of a log">
+       <li>San Diego, La Jolla</li><br>
+       <img src="https://westsidetoday.com/wp-content/uploads/2015/11/Grande-Colonial-Hotel-La-Jolla-Aerial-Photo.jpg" style="width:500; height:200px;" alt="a photo of la Jolla">
+
+
+
+    </ol>
+
+
+
+</body>
+</html>
